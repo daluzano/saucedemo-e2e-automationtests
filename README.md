@@ -20,7 +20,7 @@ URL: https://www.saucedemo.com/
 - Checkout process and order completion
 
 # 📊 Reporting
-This framework integrates $Allure Report$ to provide:
+This framework integrates **_Allure Report_** to provide:
 
 - Pass / Fail status per test
 - Step-by-step execution details
@@ -29,9 +29,9 @@ This framework integrates $Allure Report$ to provide:
 
 ## 📸 Sample Allure Screenshots
 
-#### || Allure Overview Report
+>**Allure Overview Report**
 
-#### || Project Suites
+>**Project Suites**
 
 # How to Run the Tests
 
@@ -49,4 +49,5 @@ mvn clean test
 ```
 allure serve allure-results
 ```
-*Note: This will open the Allure report in your default browser*
+> [!NOTE]
+> This will open the Allure report in your default browser
